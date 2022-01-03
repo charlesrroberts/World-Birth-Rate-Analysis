@@ -1,0 +1,2 @@
+# World-Birth-Rate-Analysis
+Working With Big Data final group project, Working With Datasets, where we analyze birth rates data against mortality rates, women in the labour force, contraceptive prevalence and female education. This project consists of data wrangling, creating, and joining multiple databases, running MySQL queries to analyze the data, correlation analysis and visualizing the results with Matplotlib and Plotly in Python.
